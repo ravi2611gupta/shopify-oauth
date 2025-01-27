@@ -37,6 +37,24 @@ app.get('/api/shopify/redirect', async (req, res) => {
 })
 
 
+const simplifyProducts = (data) => {
+  return data.edges.map((productEdge) => {
+      const product = productEdge.node;
+      return {
+          id: product.id,
+          title: product.title,
+          description: product.description,
+          images: product.images.edges.map(
+              (imageEdge) => imageEdge.node.originalSrc
+          ),
+          variants: product.variants.edges.map((variantEdge) => ({
+              price: variantEdge.node.price,
+              title: variantEdge.node.title,
+          })),
+      };
+  });
+};
+
 
 // Fetch Products using GraphQL
 app.get('/api/shopify/products', async (req, res) => {
@@ -82,7 +100,10 @@ app.get('/api/shopify/products', async (req, res) => {
         `;
 
         const response = await client.query({ data: query });
-        res.json(response.body.data.products);
+
+        const simplifiedProducts = simplifyProducts(response.body.data.products);
+
+        res.json(simplifiedProducts);
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
