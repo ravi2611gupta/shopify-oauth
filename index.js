@@ -44,6 +44,7 @@ const simplifyProducts = (data) => {
           id: product.id,
           title: product.title,
           description: product.description,
+          tags: product.tags,
           images: product.images.edges.map(
               (imageEdge) => imageEdge.node.originalSrc
           ),
@@ -77,6 +78,7 @@ app.get('/api/shopify/products', async (req, res) => {
                   id
                   title
                   description
+                  tags
                   images(first: 1) {
                     edges {
                       node {
@@ -100,9 +102,9 @@ app.get('/api/shopify/products', async (req, res) => {
         `;
 
         const response = await client.query({ data: query });
+        // res.json(response.body.data.products);
 
         const simplifiedProducts = simplifyProducts(response.body.data.products);
-
         res.json(simplifiedProducts);
     } catch (error) {
         res.status(500).json({ error: error.message });
