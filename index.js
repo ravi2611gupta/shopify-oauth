@@ -45,12 +45,20 @@ const simplifyProducts = (data) => {
           title: product.title,
           description: product.description,
           tags: product.tags,
+          vendor: product.vendor,
+          productType: product.productType,
+          handle: product.handle,
           images: product.images.edges.map(
               (imageEdge) => imageEdge.node.originalSrc
           ),
           variants: product.variants.edges.map((variantEdge) => ({
               price: variantEdge.node.price,
               title: variantEdge.node.title,
+              quantity: variantEdge.node.inventoryQuantity,
+              options: variantEdge.node.selectedOptions.map((option) => ({
+                name: option.name,
+                value: option.value,
+            })),
           })),
       };
   });
@@ -79,6 +87,9 @@ app.get('/api/shopify/products', async (req, res) => {
                   title
                   description
                   tags
+                  vendor
+                  productType
+                  handle
                   images(first: 1) {
                     edges {
                       node {
@@ -92,6 +103,11 @@ app.get('/api/shopify/products', async (req, res) => {
                       node {
                         price
                         title
+                        inventoryQuantity
+                        selectedOptions {
+                          name
+                          value
+                        }
                       }
                     }
                   }

@@ -1,0 +1,252 @@
+[
+    {
+        "id": "gid://shopify/Product/14651798389108",
+        "title": "Ocean Blue Shirt",
+        "description": "Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and tiled kalidoscope patterns.",
+        "tags": [
+            "men"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-man-in-bright-fashion_925x_314fe09c-86fa-469f-8e8f-677a9c1cea02.jpg?v=1737615333"
+        ],
+        "variants": [
+            {
+                "price": "50.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798421876",
+        "title": "Classic Varsity Top",
+        "description": "Womens casual varsity top, This grey and black buttoned top is a sport-inspired piece complete with an embroidered letter.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/casual-fashion-woman_925x_7dcce335-2584-41fd-8205-d41ce53bac1e.jpg?v=1737615336"
+        ],
+        "variants": [
+            {
+                "price": "60.00",
+                "title": "Small",
+                "options": [
+                    {
+                        "name": "Size",
+                        "value": "Small"
+                    }
+                ]
+            },
+            {
+                "price": "60.00",
+                "title": "Medium",
+                "options": [
+                    {
+                        "name": "Size",
+                        "value": "Medium"
+                    }
+                ]
+            },
+            {
+                "price": "60.00",
+                "title": "Large",
+                "options": [
+                    {
+                        "name": "Size",
+                        "value": "Large"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798454644",
+        "title": "Yellow Wool Jumper",
+        "description": "Knitted jumper in a soft wool blend with low dropped shoulders and wide sleeves and think cuffs. Perfect for keeping warm during Fall.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/autumn-photographer-taking-picture_925x_0adef1b9-56a6-434a-80cb-8cc832c4b7fa.jpg?v=1737615338"
+        ],
+        "variants": [
+            {
+                "price": "80.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798487412",
+        "title": "Floral White Top",
+        "description": "Stylish sleeveless white top with a floral pattern.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/city-woman-fashion_925x_2x_77c74ffc-8867-4f83-8f5b-59d0fe8bd12d.jpg?v=1737615340"
+        ],
+        "variants": [
+            {
+                "price": "75.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798520180",
+        "title": "Striped Silk Blouse",
+        "description": "Ultra-stylish black and red striped silk blouse with buckle collar and matching button pants.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/striped-blouse-fashion_925x_ab6752ea-9b16-46fb-9a15-e7d4e668c75f.jpg?v=1737615342"
+        ],
+        "variants": [
+            {
+                "price": "50.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798552948",
+        "title": "Classic Leather Jacket",
+        "description": "Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/leather-jacket-and-tea_925x_d9122589-a845-43c5-a23e-a5b1c4e65a06.jpg?v=1737615344"
+        ],
+        "variants": [
+            {
+                "price": "80.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798585716",
+        "title": "Dark Denim Top",
+        "description": "Classic dark denim top with chest pockets, long sleeves with buttoned cuffs, and a ripped hem effect.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-female-models-denim_925x_3675fca0-708f-4311-b7bd-f6b6e119fae0.jpg?v=1737615346"
+        ],
+        "variants": [
+            {
+                "price": "60.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798618484",
+        "title": "Navy Sports Jacket",
+        "description": "Long-sleeved navy waterproof jacket in thin, polyester fabric with a soft mesh inside. The durable water-repellent finish means you'll be kept comfortable and protected when out in all weathers.",
+        "tags": [
+            "men"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/mens-fall-fashion-jacket_925x_e69b9a04-afee-47b9-92b4-873df39725ee.jpg?v=1737615348"
+        ],
+        "variants": [
+            {
+                "price": "60.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798651252",
+        "title": "Soft Winter Jacket",
+        "description": "Thick black winter jacket, with soft fleece lining. Perfect for those cold weather days.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/smiling-woman-on-snowy-afternoon_925x_7d536192-491d-4c65-b278-58e9778a19fc.jpg?v=1737615349"
+        ],
+        "variants": [
+            {
+                "price": "50.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/14651798684020",
+        "title": "Black Leather Bag",
+        "description": "Womens black leather bag, with ample space. Can be worn over the shoulder, or remove straps to carry in your hand.",
+        "tags": [
+            "women"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/black-bag-over-the-shoulder_925x_205d66c4-8450-4a9a-b5e6-a5ffe23fa626.jpg?v=1737615351"
+        ],
+        "variants": [
+            {
+                "price": "30.00",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    }
+]

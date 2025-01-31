@@ -1,0 +1,1762 @@
+{
+    "products": [
+        {
+            "id": 14651798684020,
+            "title": "Black Leather Bag",
+            "body_html": "<p>Womens black leather bag, with ample space. Can be worn over the shoulder, or remove straps to carry in your hand.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:51-05:00",
+            "handle": "black-leather-bag",
+            "updated_at": "2025-01-31T00:23:11-05:00",
+            "published_at": "2025-01-23T01:55:50-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798684020",
+            "variants": [
+                {
+                    "id": 51749449400692,
+                    "product_id": 14651798684020,
+                    "title": "Default Title",
+                    "price": "30.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:51-05:00",
+                    "updated_at": "2025-01-23T01:55:51-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861532532,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449400692",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591095668,
+                    "product_id": 14651798684020,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150327406964,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798684020,
+                    "created_at": "2025-01-23T01:55:51-05:00",
+                    "updated_at": "2025-01-23T01:55:51-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150327406964",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/black-bag-over-the-shoulder_925x_205d66c4-8450-4a9a-b5e6-a5ffe23fa626.jpg?v=1737615351",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150327406964,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798684020,
+                "created_at": "2025-01-23T01:55:51-05:00",
+                "updated_at": "2025-01-23T01:55:51-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150327406964",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/black-bag-over-the-shoulder_925x_205d66c4-8450-4a9a-b5e6-a5ffe23fa626.jpg?v=1737615351",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798946164,
+            "title": "Blue Silk Tuxedo",
+            "body_html": "<p>Blue silk tuxedo with marbled aquatic pattern and dark lining. Sleeves are complete with rounded hem and black buttons.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:06-05:00",
+            "handle": "blue-silk-tuxedo",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:56:05-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "men",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798946164",
+            "variants": [
+                {
+                    "id": 51749449826676,
+                    "product_id": 14651798946164,
+                    "title": "Default Title",
+                    "price": "70.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:06-05:00",
+                    "updated_at": "2025-01-23T01:56:06-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861958516,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449826676",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591357812,
+                    "product_id": 14651798946164,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328881524,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798946164,
+                    "created_at": "2025-01-23T01:56:06-05:00",
+                    "updated_at": "2025-01-23T01:56:06-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328881524",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/man-adjusts-blue-tuxedo-bowtie_925x_3ab762ba-df8a-4469-aeea-05e81f1fff97.jpg?v=1737615366",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328881524,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798946164,
+                "created_at": "2025-01-23T01:56:06-05:00",
+                "updated_at": "2025-01-23T01:56:06-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328881524",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/man-adjusts-blue-tuxedo-bowtie_925x_3ab762ba-df8a-4469-aeea-05e81f1fff97.jpg?v=1737615366",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798847860,
+            "title": "Chequered Red Shirt",
+            "body_html": "<p>Classic mens plaid flannel shirt with long sleeves, in chequered style, with two chest pockets.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:00-05:00",
+            "handle": "chequered-red-shirt",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:55:58-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "men",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798847860",
+            "variants": [
+                {
+                    "id": 51749449728372,
+                    "product_id": 14651798847860,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:00-05:00",
+                    "updated_at": "2025-01-23T01:56:00-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861860212,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449728372",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591259508,
+                    "product_id": 14651798847860,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328521076,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798847860,
+                    "created_at": "2025-01-23T01:56:00-05:00",
+                    "updated_at": "2025-01-23T01:56:00-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328521076",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/red-plaid-shirt_925x_2ae4d424-0d7e-4f12-a484-db597ea9cfcd.jpg?v=1737615360",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328521076,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798847860,
+                "created_at": "2025-01-23T01:56:00-05:00",
+                "updated_at": "2025-01-23T01:56:00-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328521076",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/red-plaid-shirt_925x_2ae4d424-0d7e-4f12-a484-db597ea9cfcd.jpg?v=1737615360",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798552948,
+            "title": "Classic Leather Jacket",
+            "body_html": "<p>Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:44-05:00",
+            "handle": "classic-leather-jacket",
+            "updated_at": "2025-01-31T00:23:11-05:00",
+            "published_at": "2025-01-23T01:55:42-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798552948",
+            "variants": [
+                {
+                    "id": 51749449269620,
+                    "product_id": 14651798552948,
+                    "title": "Default Title",
+                    "price": "80.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:44-05:00",
+                    "updated_at": "2025-01-23T01:55:44-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861401460,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449269620",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590964596,
+                    "product_id": 14651798552948,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326751604,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798552948,
+                    "created_at": "2025-01-23T01:55:44-05:00",
+                    "updated_at": "2025-01-23T01:55:44-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326751604",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/leather-jacket-and-tea_925x_d9122589-a845-43c5-a23e-a5b1c4e65a06.jpg?v=1737615344",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326751604,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798552948,
+                "created_at": "2025-01-23T01:55:44-05:00",
+                "updated_at": "2025-01-23T01:55:44-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326751604",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/leather-jacket-and-tea_925x_d9122589-a845-43c5-a23e-a5b1c4e65a06.jpg?v=1737615344",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798421876,
+            "title": "Classic Varsity Top",
+            "body_html": "<p>Womens casual varsity top, This grey and black buttoned top is a sport-inspired piece complete with an embroidered letter.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:36-05:00",
+            "handle": "classic-varsity-top",
+            "updated_at": "2025-01-31T00:23:10-05:00",
+            "published_at": "2025-01-23T01:55:34-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798421876",
+            "variants": [
+                {
+                    "id": 51749449073012,
+                    "product_id": 14651798421876,
+                    "title": "Small",
+                    "price": "60.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Small",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:36-05:00",
+                    "updated_at": "2025-01-23T01:55:36-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861204852,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449073012",
+                    "image_id": null
+                },
+                {
+                    "id": 51749449105780,
+                    "product_id": 14651798421876,
+                    "title": "Medium",
+                    "price": "60.00",
+                    "position": 2,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Medium",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:36-05:00",
+                    "updated_at": "2025-01-23T01:55:36-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861237620,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449105780",
+                    "image_id": null
+                },
+                {
+                    "id": 51749449138548,
+                    "product_id": 14651798421876,
+                    "title": "Large",
+                    "price": "60.00",
+                    "position": 3,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Large",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:36-05:00",
+                    "updated_at": "2025-01-23T01:55:36-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861270388,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449138548",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590833524,
+                    "product_id": 14651798421876,
+                    "name": "Size",
+                    "position": 1,
+                    "values": [
+                        "Small",
+                        "Medium",
+                        "Large"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326620532,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798421876,
+                    "created_at": "2025-01-23T01:55:36-05:00",
+                    "updated_at": "2025-01-23T01:55:36-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326620532",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/casual-fashion-woman_925x_7dcce335-2584-41fd-8205-d41ce53bac1e.jpg?v=1737615336",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326620532,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798421876,
+                "created_at": "2025-01-23T01:55:36-05:00",
+                "updated_at": "2025-01-23T01:55:36-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326620532",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/casual-fashion-woman_925x_7dcce335-2584-41fd-8205-d41ce53bac1e.jpg?v=1737615336",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798585716,
+            "title": "Dark Denim Top",
+            "body_html": "<p>Classic dark denim top with chest pockets, long sleeves with buttoned cuffs, and a ripped hem effect.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:45-05:00",
+            "handle": "dark-denim-top",
+            "updated_at": "2025-01-31T00:23:11-05:00",
+            "published_at": "2025-01-23T01:55:44-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798585716",
+            "variants": [
+                {
+                    "id": 51749449302388,
+                    "product_id": 14651798585716,
+                    "title": "Default Title",
+                    "price": "60.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:46-05:00",
+                    "updated_at": "2025-01-23T01:55:46-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861434228,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449302388",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590997364,
+                    "product_id": 14651798585716,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326784372,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798585716,
+                    "created_at": "2025-01-23T01:55:46-05:00",
+                    "updated_at": "2025-01-23T01:55:46-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326784372",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-female-models-denim_925x_3675fca0-708f-4311-b7bd-f6b6e119fae0.jpg?v=1737615346",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326784372,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798585716,
+                "created_at": "2025-01-23T01:55:46-05:00",
+                "updated_at": "2025-01-23T01:55:46-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326784372",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-female-models-denim_925x_3675fca0-708f-4311-b7bd-f6b6e119fae0.jpg?v=1737615346",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798487412,
+            "title": "Floral White Top",
+            "body_html": "<p>Stylish sleeveless white top with a floral pattern.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:40-05:00",
+            "handle": "floral-white-top",
+            "updated_at": "2025-01-31T00:23:10-05:00",
+            "published_at": "2025-01-23T01:55:38-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798487412",
+            "variants": [
+                {
+                    "id": 51749449204084,
+                    "product_id": 14651798487412,
+                    "title": "Default Title",
+                    "price": "75.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:40-05:00",
+                    "updated_at": "2025-01-23T01:55:40-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861335924,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449204084",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590899060,
+                    "product_id": 14651798487412,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326686068,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798487412,
+                    "created_at": "2025-01-23T01:55:40-05:00",
+                    "updated_at": "2025-01-23T01:55:40-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326686068",
+                    "width": 1850,
+                    "height": 1233,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/city-woman-fashion_925x_2x_77c74ffc-8867-4f83-8f5b-59d0fe8bd12d.jpg?v=1737615340",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326686068,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798487412,
+                "created_at": "2025-01-23T01:55:40-05:00",
+                "updated_at": "2025-01-23T01:55:40-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326686068",
+                "width": 1850,
+                "height": 1233,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/city-woman-fashion_925x_2x_77c74ffc-8867-4f83-8f5b-59d0fe8bd12d.jpg?v=1737615340",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651799044468,
+            "title": "LED High Tops",
+            "body_html": "<p>Black high top shoes with green LED lights in the sole, tied up with laces and a buckle.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:12-05:00",
+            "handle": "led-high-tops",
+            "updated_at": "2025-01-31T00:23:13-05:00",
+            "published_at": "2025-01-23T01:56:11-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "men",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651799044468",
+            "variants": [
+                {
+                    "id": 51749449924980,
+                    "product_id": 14651799044468,
+                    "title": "Default Title",
+                    "price": "80.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:12-05:00",
+                    "updated_at": "2025-01-23T01:56:12-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584862056820,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449924980",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591456116,
+                    "product_id": 14651799044468,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328979828,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651799044468,
+                    "created_at": "2025-01-23T01:56:12-05:00",
+                    "updated_at": "2025-01-23T01:56:12-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328979828",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/putting-on-your-shoes_925x_fd6e2c9a-9822-4e81-ab73-4aecf9688c20.jpg?v=1737615372",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328979828,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651799044468,
+                "created_at": "2025-01-23T01:56:12-05:00",
+                "updated_at": "2025-01-23T01:56:12-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328979828",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/putting-on-your-shoes_925x_fd6e2c9a-9822-4e81-ab73-4aecf9688c20.jpg?v=1737615372",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798815092,
+            "title": "Long Sleeve Cotton Top",
+            "body_html": "<p>Black cotton womens top, with long sleeves, no collar and a thick hem.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:57-05:00",
+            "handle": "longsleeve-cotton-top",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:55:56-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798815092",
+            "variants": [
+                {
+                    "id": 51749449695604,
+                    "product_id": 14651798815092,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:57-05:00",
+                    "updated_at": "2025-01-23T01:55:57-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861827444,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449695604",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591226740,
+                    "product_id": 14651798815092,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328488308,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798815092,
+                    "created_at": "2025-01-23T01:55:57-05:00",
+                    "updated_at": "2025-01-23T01:55:57-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328488308",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/woman-outside-brownstone_925x_f01cd426-1994-4e94-9794-60f6e70b1f95.jpg?v=1737615357",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328488308,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798815092,
+                "created_at": "2025-01-23T01:55:57-05:00",
+                "updated_at": "2025-01-23T01:55:57-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328488308",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/woman-outside-brownstone_925x_f01cd426-1994-4e94-9794-60f6e70b1f95.jpg?v=1737615357",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798618484,
+            "title": "Navy Sports Jacket",
+            "body_html": "<p>Long-sleeved navy waterproof jacket in thin, polyester fabric with a soft mesh inside. The durable water-repellent finish means you'll be kept comfortable and protected when out in all weathers.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:47-05:00",
+            "handle": "navy-sport-jacket",
+            "updated_at": "2025-01-31T00:23:11-05:00",
+            "published_at": "2025-01-23T01:55:46-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "men",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798618484",
+            "variants": [
+                {
+                    "id": 51749449335156,
+                    "product_id": 14651798618484,
+                    "title": "Default Title",
+                    "price": "60.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:48-05:00",
+                    "updated_at": "2025-01-23T01:55:48-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861466996,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449335156",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591030132,
+                    "product_id": 14651798618484,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150327243124,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798618484,
+                    "created_at": "2025-01-23T01:55:48-05:00",
+                    "updated_at": "2025-01-23T01:55:48-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150327243124",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/mens-fall-fashion-jacket_925x_e69b9a04-afee-47b9-92b4-873df39725ee.jpg?v=1737615348",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150327243124,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798618484,
+                "created_at": "2025-01-23T01:55:48-05:00",
+                "updated_at": "2025-01-23T01:55:48-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150327243124",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/mens-fall-fashion-jacket_925x_e69b9a04-afee-47b9-92b4-873df39725ee.jpg?v=1737615348",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798389108,
+            "title": "Ocean Blue Shirt",
+            "body_html": "<p>Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and tiled kalidoscope patterns.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:33-05:00",
+            "handle": "ocean-blue-shirt",
+            "updated_at": "2025-01-31T00:23:10-05:00",
+            "published_at": "2025-01-23T01:55:32-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "men",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798389108",
+            "variants": [
+                {
+                    "id": 51749449040244,
+                    "product_id": 14651798389108,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:33-05:00",
+                    "updated_at": "2025-01-23T01:55:33-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861172084,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449040244",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590800756,
+                    "product_id": 14651798389108,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326587764,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798389108,
+                    "created_at": "2025-01-23T01:55:33-05:00",
+                    "updated_at": "2025-01-23T01:55:33-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326587764",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-man-in-bright-fashion_925x_314fe09c-86fa-469f-8e8f-677a9c1cea02.jpg?v=1737615333",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326587764,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798389108,
+                "created_at": "2025-01-23T01:55:33-05:00",
+                "updated_at": "2025-01-23T01:55:33-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326587764",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-man-in-bright-fashion_925x_314fe09c-86fa-469f-8e8f-677a9c1cea02.jpg?v=1737615333",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798913396,
+            "title": "Olive Green Jacket",
+            "body_html": "<p>Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:04-05:00",
+            "handle": "olive-green-jacket",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:56:03-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798913396",
+            "variants": [
+                {
+                    "id": 51749449793908,
+                    "product_id": 14651798913396,
+                    "title": "Default Title",
+                    "price": "65.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:04-05:00",
+                    "updated_at": "2025-01-23T01:56:04-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861925748,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449793908",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591325044,
+                    "product_id": 14651798913396,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328586612,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798913396,
+                    "created_at": "2025-01-23T01:56:04-05:00",
+                    "updated_at": "2025-01-23T01:56:04-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328586612",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/urban-fashion_925x_1fa8a952-3a05-4cd3-8d49-e637f138739e.jpg?v=1737615364",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328586612,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798913396,
+                "created_at": "2025-01-23T01:56:04-05:00",
+                "updated_at": "2025-01-23T01:56:04-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328586612",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/urban-fashion_925x_1fa8a952-3a05-4cd3-8d49-e637f138739e.jpg?v=1737615364",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798978932,
+            "title": "Red Sports Tee",
+            "body_html": "<p>Women's red sporty t-shirt with colorful details on the sleeves and a small white pocket.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:08-05:00",
+            "handle": "red-sports-tee",
+            "updated_at": "2025-01-31T00:23:13-05:00",
+            "published_at": "2025-01-23T01:56:07-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798978932",
+            "variants": [
+                {
+                    "id": 51749449859444,
+                    "product_id": 14651798978932,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:08-05:00",
+                    "updated_at": "2025-01-23T01:56:08-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861991284,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449859444",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591390580,
+                    "product_id": 14651798978932,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328914292,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798978932,
+                    "created_at": "2025-01-23T01:56:08-05:00",
+                    "updated_at": "2025-01-23T01:56:08-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328914292",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/womens-red-t-shirt_925x_4f9abee5-7650-45f1-8e76-0168344dfe59.jpg?v=1737615368",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328914292,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798978932,
+                "created_at": "2025-01-23T01:56:08-05:00",
+                "updated_at": "2025-01-23T01:56:08-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328914292",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/womens-red-t-shirt_925x_4f9abee5-7650-45f1-8e76-0168344dfe59.jpg?v=1737615368",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798782324,
+            "title": "Silk Summer Top",
+            "body_html": "<p>Silk womens top with short sleeves and number pattern.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:55-05:00",
+            "handle": "silk-summer-top",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:55:54-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798782324",
+            "variants": [
+                {
+                    "id": 51749449466228,
+                    "product_id": 14651798782324,
+                    "title": "Default Title",
+                    "price": "70.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:55-05:00",
+                    "updated_at": "2025-01-23T01:55:55-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861598068,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449466228",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591193972,
+                    "product_id": 14651798782324,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328455540,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798782324,
+                    "created_at": "2025-01-23T01:55:55-05:00",
+                    "updated_at": "2025-01-23T01:55:55-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328455540",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-hip-woman-at-carnival_925x_7d3df3b9-8797-41ee-8522-fba4d2cad099.jpg?v=1737615355",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328455540,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798782324,
+                "created_at": "2025-01-23T01:55:55-05:00",
+                "updated_at": "2025-01-23T01:55:55-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328455540",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/young-hip-woman-at-carnival_925x_7d3df3b9-8797-41ee-8522-fba4d2cad099.jpg?v=1737615355",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798651252,
+            "title": "Soft Winter Jacket",
+            "body_html": "<p>Thick black winter jacket, with soft fleece lining. Perfect for those cold weather days.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:49-05:00",
+            "handle": "dark-winter-jacket",
+            "updated_at": "2025-01-31T00:23:11-05:00",
+            "published_at": "2025-01-23T01:55:48-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798651252",
+            "variants": [
+                {
+                    "id": 51749449367924,
+                    "product_id": 14651798651252,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:49-05:00",
+                    "updated_at": "2025-01-23T01:55:49-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861499764,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449367924",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591062900,
+                    "product_id": 14651798651252,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150327374196,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798651252,
+                    "created_at": "2025-01-23T01:55:49-05:00",
+                    "updated_at": "2025-01-23T01:55:49-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150327374196",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/smiling-woman-on-snowy-afternoon_925x_7d536192-491d-4c65-b278-58e9778a19fc.jpg?v=1737615349",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150327374196,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798651252,
+                "created_at": "2025-01-23T01:55:49-05:00",
+                "updated_at": "2025-01-23T01:55:49-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150327374196",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/smiling-woman-on-snowy-afternoon_925x_7d536192-491d-4c65-b278-58e9778a19fc.jpg?v=1737615349",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798520180,
+            "title": "Striped Silk Blouse",
+            "body_html": "<p>Ultra-stylish black and red striped silk blouse with buckle collar and matching button pants.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:42-05:00",
+            "handle": "striped-silk-blouse",
+            "updated_at": "2025-01-31T00:23:11-05:00",
+            "published_at": "2025-01-23T01:55:40-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798520180",
+            "variants": [
+                {
+                    "id": 51749449236852,
+                    "product_id": 14651798520180,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:42-05:00",
+                    "updated_at": "2025-01-23T01:55:42-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861368692,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449236852",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590931828,
+                    "product_id": 14651798520180,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326718836,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798520180,
+                    "created_at": "2025-01-23T01:55:42-05:00",
+                    "updated_at": "2025-01-23T01:55:42-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326718836",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/striped-blouse-fashion_925x_ab6752ea-9b16-46fb-9a15-e7d4e668c75f.jpg?v=1737615342",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326718836,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798520180,
+                "created_at": "2025-01-23T01:55:42-05:00",
+                "updated_at": "2025-01-23T01:55:42-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326718836",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/striped-blouse-fashion_925x_ab6752ea-9b16-46fb-9a15-e7d4e668c75f.jpg?v=1737615342",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651799011700,
+            "title": "Striped Skirt and Top",
+            "body_html": "<p>Black cotton top with matching striped skirt.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:10-05:00",
+            "handle": "striped-skirt-and-top",
+            "updated_at": "2025-01-31T00:23:13-05:00",
+            "published_at": "2025-01-23T01:56:09-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651799011700",
+            "variants": [
+                {
+                    "id": 51749449892212,
+                    "product_id": 14651799011700,
+                    "title": "Default Title",
+                    "price": "50.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:10-05:00",
+                    "updated_at": "2025-01-23T01:56:10-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584862024052,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449892212",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591423348,
+                    "product_id": 14651799011700,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328947060,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651799011700,
+                    "created_at": "2025-01-23T01:56:10-05:00",
+                    "updated_at": "2025-01-23T01:56:10-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328947060",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/woman-in-the-city_925x_bbe0c4d4-8ef7-407a-941d-3d096daf9c42.jpg?v=1737615370",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328947060,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651799011700,
+                "created_at": "2025-01-23T01:56:10-05:00",
+                "updated_at": "2025-01-23T01:56:10-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328947060",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/woman-in-the-city_925x_bbe0c4d4-8ef7-407a-941d-3d096daf9c42.jpg?v=1737615370",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798880628,
+            "title": "White Cotton Shirt",
+            "body_html": "<p>Plain white cotton long sleeved shirt with loose collar. Small buttons and front pocket.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:56:02-05:00",
+            "handle": "white-cotton-shirt",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:56:01-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798880628",
+            "variants": [
+                {
+                    "id": 51749449761140,
+                    "product_id": 14651798880628,
+                    "title": "Default Title",
+                    "price": "30.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:56:02-05:00",
+                    "updated_at": "2025-01-23T01:56:02-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861892980,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449761140",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591292276,
+                    "product_id": 14651798880628,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150328553844,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798880628,
+                    "created_at": "2025-01-23T01:56:02-05:00",
+                    "updated_at": "2025-01-23T01:56:02-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150328553844",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/smiling-woman-poses_925x_471907a0-1098-44fe-913d-b2c9d20b301d.jpg?v=1737615362",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150328553844,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798880628,
+                "created_at": "2025-01-23T01:56:02-05:00",
+                "updated_at": "2025-01-23T01:56:02-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150328553844",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/smiling-woman-poses_925x_471907a0-1098-44fe-913d-b2c9d20b301d.jpg?v=1737615362",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798454644,
+            "title": "Yellow Wool Jumper",
+            "body_html": "<p>Knitted jumper in a soft wool blend with low dropped shoulders and wide sleeves and think cuffs. Perfect for keeping warm during Fall.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:38-05:00",
+            "handle": "yellow-wool-jumper",
+            "updated_at": "2025-01-31T00:23:10-05:00",
+            "published_at": "2025-01-23T01:55:36-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "women",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798454644",
+            "variants": [
+                {
+                    "id": 51749449171316,
+                    "product_id": 14651798454644,
+                    "title": "Default Title",
+                    "price": "80.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:38-05:00",
+                    "updated_at": "2025-01-23T01:55:38-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861303156,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449171316",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969590866292,
+                    "product_id": 14651798454644,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150326653300,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798454644,
+                    "created_at": "2025-01-23T01:55:38-05:00",
+                    "updated_at": "2025-01-23T01:55:38-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150326653300",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/autumn-photographer-taking-picture_925x_0adef1b9-56a6-434a-80cb-8cc832c4b7fa.jpg?v=1737615338",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150326653300,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798454644,
+                "created_at": "2025-01-23T01:55:38-05:00",
+                "updated_at": "2025-01-23T01:55:38-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150326653300",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/autumn-photographer-taking-picture_925x_0adef1b9-56a6-434a-80cb-8cc832c4b7fa.jpg?v=1737615338",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 14651798716788,
+            "title": "Zipped Jacket",
+            "body_html": "<p>Dark navy and light blue men's zipped waterproof jacket with an outer zipped chestpocket for easy storeage.</p>",
+            "vendor": "partners-demo",
+            "product_type": "",
+            "created_at": "2025-01-23T01:55:53-05:00",
+            "handle": "zipped-jacket",
+            "updated_at": "2025-01-31T00:23:12-05:00",
+            "published_at": "2025-01-23T01:55:52-05:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "men",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/14651798716788",
+            "variants": [
+                {
+                    "id": 51749449433460,
+                    "product_id": 14651798716788,
+                    "title": "Default Title",
+                    "price": "65.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-01-23T01:55:53-05:00",
+                    "updated_at": "2025-01-23T01:55:53-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52584861565300,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/51749449433460",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 16969591128436,
+                    "product_id": 14651798716788,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 53150327439732,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 14651798716788,
+                    "created_at": "2025-01-23T01:55:53-05:00",
+                    "updated_at": "2025-01-23T01:55:53-05:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/53150327439732",
+                    "width": 925,
+                    "height": 617,
+                    "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/menswear-blue-zip-up-jacket_925x_7a030e7b-85c4-4d94-bfe4-64380d20dbd6.jpg?v=1737615353",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 53150327439732,
+                "alt": null,
+                "position": 1,
+                "product_id": 14651798716788,
+                "created_at": "2025-01-23T01:55:53-05:00",
+                "updated_at": "2025-01-23T01:55:53-05:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/53150327439732",
+                "width": 925,
+                "height": 617,
+                "src": "https://cdn.shopify.com/s/files/1/0899/8276/3380/files/menswear-blue-zip-up-jacket_925x_7a030e7b-85c4-4d94-bfe4-64380d20dbd6.jpg?v=1737615353",
+                "variant_ids": []
+            }
+        }
+    ]
+}

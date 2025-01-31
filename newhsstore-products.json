@@ -1,0 +1,268 @@
+[
+    {
+        "id": "gid://shopify/Product/7724802539572",
+        "title": "7 Shakra Bracelet",
+        "description": "7 chakra bracelet, in blue or black.",
+        "tags": [
+            "Beads"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/7-chakra-bracelet_925x_07813987-0de7-47ed-bd60-806385b6aca1.jpg?v=1737617154"
+        ],
+        "variants": [
+            {
+                "price": "42.99",
+                "title": "Blue",
+                "options": [
+                    {
+                        "name": "Color",
+                        "value": "Blue"
+                    }
+                ]
+            },
+            {
+                "price": "42.99",
+                "title": "Black",
+                "options": [
+                    {
+                        "name": "Color",
+                        "value": "Black"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802572340",
+        "title": "Anchor Bracelet Mens",
+        "description": "Black leather bracelet with gold or silver anchor for men.",
+        "tags": [
+            "Anchor",
+            "Gold",
+            "Leather",
+            "Silver"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/anchor-bracelet-mens_925x_fdfa4b6c-2b3f-4788-a960-a9a286df9c25.jpg?v=1737617158"
+        ],
+        "variants": [
+            {
+                "price": "69.99",
+                "title": "Gold",
+                "options": [
+                    {
+                        "name": "Color",
+                        "value": "Gold"
+                    }
+                ]
+            },
+            {
+                "price": "55.00",
+                "title": "Silver",
+                "options": [
+                    {
+                        "name": "Color",
+                        "value": "Silver"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802605108",
+        "title": "Bangle Bracelet",
+        "description": "Gold bangle bracelet with studded jewels.",
+        "tags": [
+            "Diamond",
+            "Gem",
+            "Gold"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/bangle-bracelet-with-jewels_925x_4b722bdf-bd61-40a1-85bd-6e97db86a1ee.jpg?v=1737617160"
+        ],
+        "variants": [
+            {
+                "price": "39.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802637876",
+        "title": "Boho Bangle Bracelet",
+        "description": "Gold boho bangle bracelet with multicolor tassels.",
+        "tags": [
+            "Gold"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/bangle-bracelet-with-feathers_925x_1fd0e72e-50d2-43d1-9929-a526776a954e.jpg?v=1737617162"
+        ],
+        "variants": [
+            {
+                "price": "42.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802768948",
+        "title": "Boho Earrings",
+        "description": "Turquoise globe earrings on 14k gold hooks.",
+        "tags": [
+            "Silver",
+            "Turquoise"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/boho-earrings_925x_12916f42-077e-4d14-8133-37bdd125f757.jpg?v=1737617166"
+        ],
+        "variants": [
+            {
+                "price": "27.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802801716",
+        "title": "Choker with Bead",
+        "description": "Black choker necklace with 14k gold bead.",
+        "tags": [
+            "Gold",
+            "Leather"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/black-choker-with-bead_925x_11253ef6-656a-4a99-b8cf-921c34426581.jpg?v=1737617169"
+        ],
+        "variants": [
+            {
+                "price": "14.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802867252",
+        "title": "Choker with Gold Pendant",
+        "description": "Black cord choker with gold pendant. Beautifully died black leather shapes a choker necklace with findings of 14k yellow gold, displaying gold pendant in a gorgeous balance of dark and light, delicate and strong. 14k yellow gold Leather Length, 12\" with 2.5\" extender Width, 0.3\" Lobster clasp Made in USA",
+        "tags": [
+            "Choker",
+            "Gold",
+            "Leather",
+            "Pendant"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/choker-with-gold-pendant_925x_75aa62ff-55c6-4555-84ea-446cf38669ad.jpg?v=1737617172"
+        ],
+        "variants": [
+            {
+                "price": "29.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802900020",
+        "title": "Choker with Triangle",
+        "description": "Black choker with silver triangle pendant.",
+        "tags": [
+            "Leather",
+            "Silver",
+            "Triangle"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/choker-with-triangle_925x_2b01478b-167c-4b42-8c6b-889498edfbdb.jpg?v=1737617173"
+        ],
+        "variants": [
+            {
+                "price": "47.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802965556",
+        "title": "Dainty Gold Necklace",
+        "description": "Dainty gold necklace with two pendants.",
+        "tags": [
+            "Gold",
+            "Pendant"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/dainty-gold-necklace_925x_5d02f1d5-f7a8-4d7a-ae96-c0ef5c44c74a.jpg?v=1737617177"
+        ],
+        "variants": [
+            {
+                "price": "63.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gid://shopify/Product/7724802998324",
+        "title": "Dreamcatcher Pendant Necklace",
+        "description": "Turquoise beaded dream catcher necklace. Silver feathers adorn this beautiful dream catcher, which move and twinkle as you walk.",
+        "tags": [
+            "Dreamcatcher",
+            "Pendant",
+            "Silver",
+            "Turquoise"
+        ],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0686/4683/0132/files/dreamcatcher-pendant-necklace_925x_83ac7f9f-f79e-47ce-8dc6-9162d15c15e3.jpg?v=1737617179"
+        ],
+        "variants": [
+            {
+                "price": "23.99",
+                "title": "Default Title",
+                "options": [
+                    {
+                        "name": "Title",
+                        "value": "Default Title"
+                    }
+                ]
+            }
+        ]
+    }
+]
